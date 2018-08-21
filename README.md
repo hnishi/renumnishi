@@ -1,7 +1,7 @@
 # renumnishi
 re-numbering residue numbers in pdb file
 
-BUILD:
+## BUILD
 
 edit "Makefile" and then
 
@@ -10,7 +10,7 @@ $ make clean
 $ make
 ```
 
-USAGE:
+## USAGE
 
 create input file for program.
 see inp_template.txt.
