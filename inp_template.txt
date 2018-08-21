@@ -1,0 +1,8 @@
+
+INPUTPDB1  out_rep01_286d_minimal_lefthand.pdb 
+OUTPUTFILE1 out_renum.pdb
+
+START_RES 1
+
+
+
