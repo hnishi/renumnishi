@@ -1,5 +1,5 @@
 # renumnishi
-re-numbering residue numbers in pdb file
+re-numbering all residue in pdb file
 
 ## BUILD
 
